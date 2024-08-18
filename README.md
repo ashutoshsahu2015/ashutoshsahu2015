@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/ashutoshsahu2015/ashutoshsahu2015/blob/main/assest/ashutosh_sahu.png" height="auto" width="300" style=" border-radius: 50%;"></p>
+<p align="center"><img src="https://github.com/ashutoshsahu2015/ashutoshsahu2015/blob/main/asset/ashutosh_sahu.png" height="auto" width="300" style=" border-radius: 50%;"></p>
 
 <h1 align="center" >Hi 👋, I'm Ashutosh Sahu</h1>
 <h3 align="center">I'm a Developer Support Engineer at Okta. 😎</h3> <br>
